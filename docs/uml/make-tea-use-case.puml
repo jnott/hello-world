@@ -1,0 +1,30 @@
+@startuml
+title Joe's Use Case Example
+skinparam style strictuml
+left to right direction
+actor Instructor as I
+rectangle "Fill\nkettle" as fk
+rectangle "Get\ntea\nbag" as gtb
+rectangle "Get\nMilk" as gm
+
+rectangle "Make a cup of tea" {
+
+(Boil\nthe\nkettle) as btk
+(Add\ntea\nbag) as atb
+(Add\nmilk) as am
+(Remove\ntea\nbag) as rtb
+}
+
+I -- btk
+btk --> fk
+
+I -- atb
+atb --> gtb
+
+' Add milk
+I -- am
+am --> gm
+
+'Remove tea bag
+I -- rtb
+@enduml
