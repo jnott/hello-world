@@ -30,4 +30,4 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 # Use cases
-![Use case diagram in PlantUML](http://www.plantuml.com/plantuml/svg/3SlB3OCm303GLUW0YUziunf38YLsv0zLjuVJExrF5nfvSDhOMiJo7S3mLwyUBR_fRAGIB5599vpPRA9Wg05fcdD1Ydxt-9SrK8GD9dgygE81xo-4pbvNpl40.svg)
+![Use case diagram in PlantUML](http://www.plantuml.com/plantuml/svg/PO_FIWCn4CRlynH3Bws7le9KHQL2BuAtlSpkpcv3_cH9PaKHtzr9ebZqa12-tvVvCOSib6Jr3iI8OtoAlCtuaXdlIA_xD_ABOyZMX8KIUSpoxbZlP8RwpV4aA16JcS-2eqayY8a1Q92Oy1YqkTOdPJn2eHHcnxXvCCvrmRAeTbFeP2_n8qiNXAaBFSsLpzB_AvoCimrwk8Gdieo4mxfWd52ODlW1iBkDHfrovX_nLVdRYuNTpJZ--cfCwcknLqkBFEoUsSTN_jDDslq4EE9-NyVfqUUrxjJ2EanF2UiYi4KTZMNoTy43-OQzqcP1bQ0wMgL83Xp6rRil.svg)
